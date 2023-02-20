@@ -7,4 +7,4 @@
 
 ## The Projects
 
-**1. Wordsmith**: [GitHub](https://github.com/Radiant690/wordsmith) | [Demo]()
+**1. Wordsmith**: [GitHub](https://github.com/Radiant690/wordsmith) | [Demo](https://radiant690.github.io/wordsmith/)
